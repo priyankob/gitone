@@ -3,3 +3,5 @@ test file
 add 2nd commit
 
 add 3rd commit
+
+add 4th commit
